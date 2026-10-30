@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/bsi-of-new-york-77996/sitemap.xml
+Sitemap: https://bsi-of-new-york-77996.pages.dev/sitemap.xml
